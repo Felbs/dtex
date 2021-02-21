@@ -42,3 +42,12 @@
         name: elrond
         aftername: half-elven
         home:  rivendell
+
+
+_______________ Versions _______________
+----------------------------------------
+
+
+  v1.0 -> innitial version
+
+  v1.1

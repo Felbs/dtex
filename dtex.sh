@@ -5,11 +5,13 @@
 #
 # Author - Felbs
 
-#  ---------- [ Configuration ] ----------
-SEP=:
+source config.sh || {
+
+	echo "something seems wrong at config.sh"
+
+}
+
 TEMP=temp.$$
- 
-#  ---------------------------------------
 
 
 # first, we need to define a variable called DATA
